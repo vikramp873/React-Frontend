@@ -2,6 +2,19 @@
   text-align: center;
 }
 
+.navbar-brand a, .nav-link a.before-login{
+  color: #fff;
+  text-decoration: none;
+}
+
+.big-banner {
+  font-size: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 50vh;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

@@ -1,0 +1,36 @@
+.increment-decrement {
+   text-align: center;
+   margin-top: 100px;
+}
+
+.big-banner-2 {
+   font-size: 2rem;
+   
+ }
+ 
+.count-btn {
+   width: auto;
+/* height: 40px; */
+border-radius: 50px;
+outline: 0;
+border: 1px transparent;
+font-size: 26px;
+font-weight: bold;
+color: #fff;
+cursor: pointer;
+padding: 15px 20px;
+margin: 10px 0;
+}
+.count-down {
+   background-color: #e73737;
+}
+.count-up {
+   background-color: #2bd92e;
+}
+.counter {
+   font-size: 30px;
+   border-radius: 4px;
+   border: 1px solid #ccc;
+   text-align: center;
+   padding: 3px 13px;
+}
